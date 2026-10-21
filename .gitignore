@@ -1,0 +1,15 @@
+# MATLAB and Simulink generated files
+**/slprj/
+*.autosave
+*.asv
+*.m~
+
+# Local logs and temporary files
+*.log
+*.tmp
+tmp/
+
+# Operating system metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
